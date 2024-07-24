@@ -30,7 +30,7 @@ Please consult the AWS documentation:
 
 ## Obtaining the source code
 
-The source code is available on my GitHub:
+The source code is available on my GitHub: https://github.com/LMtx/AWS-CDK-EC2-user-data
 
 ## Let's get started!
 
